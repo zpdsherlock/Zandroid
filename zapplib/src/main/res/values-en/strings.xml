@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zapplib</string>
+    <string name="download_start">Download Starting</string>
+    <string name="download_complete">Download Complete</string>
+    <string name="download_fail">Download Fail</string>
+</resources>
